@@ -1,0 +1,15 @@
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\bin\Debug\net8.0\AppAnaliseString.exe
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\bin\Debug\net8.0\AppAnaliseString.deps.json
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\bin\Debug\net8.0\AppAnaliseString.runtimeconfig.json
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\bin\Debug\net8.0\AppAnaliseString.dll
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\bin\Debug\net8.0\AppAnaliseString.pdb
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\AppAnaliseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\AppAnaliseString.AssemblyInfoInputs.cache
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\AppAnaliseString.AssemblyInfo.cs
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\AppAnaliseString.csproj.CoreCompileInputs.cache
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\AppAnaliseString.sourcelink.json
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\AppAnaliseString.dll
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\refint\AppAnaliseString.dll
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\AppAnaliseString.pdb
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\AppAnaliseString.genruntimeconfig.cache
+C:\Users\yamam\OneDrive\Documents\POO\1° BIM\AppAnaliseString\AppAnaliseString\obj\Debug\net8.0\ref\AppAnaliseString.dll
